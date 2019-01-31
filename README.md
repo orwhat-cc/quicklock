@@ -2,7 +2,7 @@
 
 Lock your Mac quickly by launching this app.
 
-[![App in use](https://github.com/orwhat-cc/quicklock/blob/master/QuickLock-App.png?raw=true)]
+![App in use](https://github.com/orwhat-cc/quicklock/blob/master/App-in-use.png?raw=true)
 
 ### Download
 
